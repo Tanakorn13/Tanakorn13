@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanakorn13&show_icons=true&locale=en" alt="tanakorn13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanakorn13&" alt="tanakorn13" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanakorn13)](https://github.com/Tanakorn13)
