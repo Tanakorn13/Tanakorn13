@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanakorn13&label=Profile%20views&color=0e75b6&style=flat" alt="tanakorn13" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Tailwind, Data Science**
+- 🌱 I’m currently learning **Next.js, Tailwind, Front-end**
 
 - 📫 How to reach me **tanakorn.pong13@gmail.com**
 
