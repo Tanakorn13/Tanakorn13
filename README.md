@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanakorn13&show_icons=true&locale=en" alt="tanakorn13" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanakorn13&langs_count=7)](https://github.com/Tanakorn13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanakorn13&langs_count=8)](https://github.com/Tanakorn13)
